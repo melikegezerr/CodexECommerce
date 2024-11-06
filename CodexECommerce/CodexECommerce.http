@@ -1,0 +1,6 @@
+@CodexECommerce_HostAddress = http://localhost:5090
+
+GET {{CodexECommerce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
